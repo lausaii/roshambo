@@ -21,6 +21,9 @@
   },
   "homepage": "https://github.com/lausaii/roshambo#readme",
   "dependencies": {
-    "express": "^4.17.1"
+    "bufferutil": "^4.0.3",
+    "express": "^4.17.1",
+    "utf-8-validate": "^5.0.4",
+    "ws": "^7.4.5"
   }
 }
